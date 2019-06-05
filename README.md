@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/finos/branding/master/finos-logos/icon-wordmark-name/FINOS_Icon_Wordmark_Name_RGB.png" height="200">
+<img src="https://github.com/finos/branding/blob/master/finos-logos/pride-month/05.22.19.FINOS_Pride_2x3_RoundedCorners.png" height="200">
 
 # FINOS Branding and Resources
 
