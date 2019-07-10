@@ -1,5 +1,5 @@
 # FINOS Branding and Resources
-<img align="right" src="https://github.com/finos/branding/blob/master/finos-logos/pride-month/05.22.19.FINOS_Pride_2x3_RoundedCorners.png" height="200">
+<img align="right" src="https://raw.githubusercontent.com/finos/branding/master/finos-logos/icon-wordmark/FINOS_Icon_Wordmark_RGB.png" height="200">
 
 This repository contains FINOS official branding assets. This includes [FINOS logos](finos-logos), [Program Logos](program-logos) and [FINOS document templates](document-templates). Please before making use of this assets make sure you:
 
