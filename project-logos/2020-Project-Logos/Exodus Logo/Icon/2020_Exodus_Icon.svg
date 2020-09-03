@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 547.44 542.11" style="enable-background:new 0 0 547.44 542.11;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_3_);}
+	.st1{fill:#79BE70;}
+</style>
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M547.44,514.52V27.59C547.44,12.35,535.08,0,519.85,0H27.59C12.35,0,0,12.35,0,27.59v486.93
+				c0,15.24,12.35,27.59,27.59,27.59h492.25C535.08,542.11,547.44,529.76,547.44,514.52L547.44,514.52z M404.55,269.35
+				l-141.27,112.5v-68.38H143.43v-84.83h119.84v-68.38L404.55,269.35L404.55,269.35z"/>
+		</defs>
+		<radialGradient id="SVGID_2_" cx="273.72" cy="271.055" r="231.174" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#79BE70"/>
+			<stop  offset="0.3966" style="stop-color:#438A4C"/>
+			<stop  offset="0.7997" style="stop-color:#135B2C"/>
+			<stop  offset="1" style="stop-color:#00491F"/>
+		</radialGradient>
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;fill:url(#SVGID_2_);"/>
+		<clipPath id="SVGID_3_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st0">
+			<g>
+				<defs>
+					<rect id="SVGID_4_" width="547.44" height="542.11"/>
+				</defs>
+				<radialGradient id="SVGID_5_" cx="273.72" cy="271.055" r="231.174" gradientUnits="userSpaceOnUse">
+					<stop  offset="0" style="stop-color:#79BE70"/>
+					<stop  offset="1" style="stop-color:#00491F"/>
+				</radialGradient>
+				<use xlink:href="#SVGID_4_"  style="overflow:visible;fill:url(#SVGID_5_);"/>
+				<clipPath id="SVGID_6_">
+					<use xlink:href="#SVGID_4_"  style="overflow:visible;"/>
+				</clipPath>
+			</g>
+		</g>
+	</g>
+</g>
+<polygon class="st1" points="467.26,416.57 467.26,125.54 303.39,125.54 303.39,175.63 424.26,268.96 303.39,365.22 303.39,416.57 
+	"/>
+<polygon class="st1" points="244.05,216.14 244.05,78.29 80.17,78.29 80.17,463.82 244.05,463.82 244.05,325.49 131.01,325.49 
+	131.01,216.14 "/>
+</svg>
