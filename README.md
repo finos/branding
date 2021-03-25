@@ -8,6 +8,15 @@ This repository contains FINOS official branding assets. This includes [FINOS lo
 
 Contact `marketing at finos dot org` if you have questions or are unsure about proper usage of FINOS branding material.
 
+## Useful Branding Links
+
+[Download FINOS Logos](https://github.com/finos/branding/tree/master/finos-logos)
+
+[Download FINOS Project Logos](https://github.com/finos/branding/tree/master/project-logos)
+
+[Download FINOS Video Backgrounds & Presentation Templates](https://github.com/finos/branding/tree/master/templates)
+
+
 ## Contributing
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
